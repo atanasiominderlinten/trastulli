@@ -345,7 +345,7 @@ button {
 
 /* modules/cookie-disclaimer.css */
 :root {
-  --cookieDisclaumerBackgroundColor: $blk;
+  --cookieDisclaumerBackgroundColor: #0f1216;
   --cookieDisclaumerColor: #fff;
   --cookieDisclaumerFontSize: 0.75rem;
   --cookieDisclaumerPadding: 0.75rem;
