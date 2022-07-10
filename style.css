@@ -29,7 +29,6 @@ body {
 }
 
 main {
-  height: 150vh;
   max-height: 100%;
   overflow-x: hidden;
   perspective: 1.1px;
