@@ -78,7 +78,7 @@ main {
   margin-bottom: 0px;
   text-decoration: none;
   font-weight: 700;
-  font-size: min(max(54pt, 90vw), 72pt);
+  font-size: 5.8vw;
 }
 .hdcontainer h2 {
   text-align: center;
