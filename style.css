@@ -25,7 +25,7 @@ html {
 body {
   height: 100%;
   font-family: "Oswald", sans-serif;
-  background-image: linear-gradient(to bottom right, #fff4e5, #fff4e5 70%);
+  background-color: #fff4e5;
 }
 
 main {
@@ -37,7 +37,8 @@ main {
 }
 
 .wrapper {
-  margin-top: -30px;
+  margin-top: -40px;
+  margin-bottom: 40px;
   margin-right: auto;
   margin-left: auto;
   max-width: 840px;
@@ -127,6 +128,7 @@ hr {
   padding: 0px 40px;
   width: auto;
   transform: translateZ(0);
+  background-color: #fff4e5;
 }
 .container h4 {
   text-align: center;
