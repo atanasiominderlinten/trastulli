@@ -48,3 +48,8 @@ $$cookieDisclaimer.querySelector("button").addEventListener("click", () => {
   localStorage.setItem("cookieDisclaimer", true);
   $$cookieDisclaimer.classList.remove("is-active");
 });
+
+
+window.addEventListener('resize', function(){
+    document.getElementById('myEl').style.zIndex = '1';
+}, false);
