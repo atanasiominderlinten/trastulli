@@ -81,7 +81,7 @@ main {
   font-weight: 700;
 }
 .hdcontainer .prop-text {
-  font-size: 5.8vw;
+  font-size: 6vw;
 }
 @media (max-width: 1082px) {
   .hdcontainer .prop-text {
